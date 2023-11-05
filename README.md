@@ -31,7 +31,5 @@
 
 <div align=center>
 
-![9Hundred100Five1's github status](https://github-readme-stats.vercel.app/api?username=9Hundred100Five1&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohot2124)](https://solved.ac/profile/ohot2124/)]
 
