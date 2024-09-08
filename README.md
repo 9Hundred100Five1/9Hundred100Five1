@@ -31,5 +31,5 @@
 
 <div align=center>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohot2124)](https://solved.ac/profile/ohot2124/)]
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohot2124)](https://solved.ac/profile/ohot2124/)
 
